@@ -64,7 +64,7 @@ class ProfileScreen extends StatelessWidget {
       title: Text(title, style: TextStyle(fontSize: 16, fontWeight: FontWeight.w500)),
       trailing: Icon(Icons.arrow_forward_ios, size: 16, color: Colors.grey),
       onTap: () {
-        // هنا يمكن إضافة وظائف لكل خيار
+      
       },
     ); // ListTile
   }

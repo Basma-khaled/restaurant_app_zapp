@@ -9,7 +9,7 @@ class SignupScreen extends StatelessWidget {
     return Scaffold(
       body: Stack(
         children: [
-          // *** التعديل هنا: استخدام نفس الخلفية البرتقالية ***
+          
           Container(
             decoration: BoxDecoration(
               gradient: LinearGradient(

@@ -9,7 +9,7 @@ class LoginScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
-        // A beautiful gradient background
+        
         decoration: BoxDecoration(
           gradient: LinearGradient(
             colors: [Colors.orange, Colors.deepOrange],
@@ -18,7 +18,7 @@ class LoginScreen extends StatelessWidget {
           ), // LinearGradient
         ), // BoxDecoration
         child: Center(
-          child: SingleChildScrollView( // To avoid overflow issues with the keyboard
+          child: SingleChildScrollView( 
             padding: const EdgeInsets.all(32.0),
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
