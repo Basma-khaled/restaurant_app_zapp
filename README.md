@@ -1,6 +1,5 @@
 # restaurant_app
 
-A new Flutter project built with Zapp!
 
 ## Getting Started
 
